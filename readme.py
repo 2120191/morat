@@ -43,3 +43,5 @@ else:
 
 ##
 ``` python
+## concepto
+¿Qué son los algoritmos? En informática, se llaman algoritmos el conjunto de instrucciones sistemáticas y previamente definidas que se utilizan para realizar una determinada tarea. Estas instrucciones están ordenadas y acotadas a manera de pasos a seguir para alcanzar un objetivo.
